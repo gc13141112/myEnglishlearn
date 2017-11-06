@@ -4,4 +4,4 @@
 
 1. The old bridge is not strong enough to allow the (    ) of heavy vehicles.
 
-A.passage   B.route    C.tunnel    D.pressure
+    A.passage   B.route    C.tunnel    D.pressure
