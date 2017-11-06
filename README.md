@@ -1,1 +1,1 @@
-# university of Chinese academy of sciences English entrance examination for ph.d program
+# University of Chinese Academy of Sciences English entrance examination for Ph.d program
